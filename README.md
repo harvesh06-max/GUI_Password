@@ -37,7 +37,7 @@ This project is suitable for Python GUI learning, mini projects, and resume port
 
 automatic-password-generator-gui/
 │
-├── password_generator_gui.py
+├── Password.py
 └── README.md
 
 yaml
